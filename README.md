@@ -14,8 +14,8 @@
 
 ###
 
-<p align="left">● See my profile at https://github.com/Alicelee27<br>● You can contact me at m-2998140@moe-dl.edu.my </p>
-
+<p align="left">● See my profile at https://github.com/Alicelee27 </p>
+<p align="left">● You can contact me at <a href="mailto:lee04@graduate.utm.my">📧</a></p>
 ###
 
 <h3 align="left">📖Education:</h3>
