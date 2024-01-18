@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">● 🌏 I'm based in Malaysia.<br>● 💻 I'm a first-year student pursuing a Computer Science in Graphics and Multimedia Software degree at https://www.utm.my/.</p>
+<p align="left">● 🌏 I'm based in Malaysia.<br>● 💻 I'm a first-year student pursuing a Computer Science in Graphics and Multimedia Software degree at [Universiti Teknologi Malaysia] https://www.utm.my/.</p>
 
 ###
 
