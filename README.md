@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">🏆Badges:</h3>
+<h3 align="left">📊Badges:</h3>
 
 ###
 
