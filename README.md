@@ -15,8 +15,7 @@
 ###
 
 <p align="left">● See my profile at https://github.com/Alicelee27 </p>
-<p align="left">● You can contact me at <a href="mailto:lee04@graduate.utm.my">📧</a></p>
-<p align="left">● contact: alicelee1196@gmail.com </p>
+<p align="left">● You can contact me at <a href="mailto:lee04@graduate.utm.my"> lee04@graduate.utm.my 📧</a></p>
 
 ###
 
