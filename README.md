@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">● 🌏 I'm based in Malaysia.<br>● 💻 I'm currently studying Computer Science in Graphics and Multimedia Software degree at <a href="https://www.utm.my/" target="_blank">Universiti Teknologi Malaysia (UTM)</a></p> .
+<p align="left">● 🌏 I'm based in Malaysia.<br>● 💻 I'm currently studying Computer Science in Graphics and Multimedia Software degree at <a href="https://www.utm.my/" target="_blank">Universiti Teknologi Malaysia (UTM)</a></p>.
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">● See my profile at https://github.com/Alicelee27<br>● You can contact me at lee04@graduate.utm.my</p>
+<p align="left">● See my profile at https://github.com/Alicelee27<br>● You can contact me at [lee04@graduate.utm.my](mailto:lee04@graduate.utm.my)</p>
 
 ###
 
