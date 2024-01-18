@@ -8,6 +8,8 @@
 
 <p align="left">● 🌏 I'm based in Malaysia.<br>● 💻 I'm a first-year student pursuing a Computer Science in Graphics and Multimedia Software degree at Universiti Teknologi Malaysia (UTM).<br><br>[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)</p>
 
+<p align="left">● 🌏 I'm based in Malaysia.<br>● 💻 I'm a first-year student pursuing a Computer Science in Graphics and Multimedia Software degree at Universiti Teknologi Malaysia (UTM).<br><br><a href="https://www.utm.my/" target="_blank">Universiti Teknologi Malaysia (UTM)</a></p>
+
 ###
 
 <h3 align="left">📫Connect with me:</h3>
