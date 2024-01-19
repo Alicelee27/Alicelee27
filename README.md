@@ -65,7 +65,6 @@
   4. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%204%20-%20REPORT%20ON%20INDUSTRY%20TALK%202.pdf" target="_blank">Assignment 4</a>
 </p>
 
-
 ###
 
 <h1 align="left">Reflection On Each Assignment 📌</h1>
