@@ -62,8 +62,7 @@
   1. <a href="https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%201-%20VISIT%20TO%20NALI%202023/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G6%20S7%20).pdf" target="_blank">Assignment 1</a> <br>
   2. <a href="https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%202%20-%20INDUSTRY%20TALK%201/ASSIGNMENT%202-%20POSTER%20ON%20INDUSTRY%20TALK%201.jpg" target="_blank">Assignment 2</a> <br>
   3. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%203%20-VIDEO%20VISIT%20TO%20UTM%20DIGITAL.pdf" target="_blank">Assignment 3</a>
-  [![Video Visit to UTM Digital](https://img.youtube.com/vi/3FbHJD4fgBo/0.jpg)](https://youtu.be/3FbHJD4fgBo?si=rkLYSNiZshZ2y_yl)
-
+  
 </p>
 
 ###
