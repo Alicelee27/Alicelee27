@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">**Summarize What I Have Gained From The NALI Visit** 📝<br>On November 7, 2023, my visit to New Academia Learning Innovation (NALI) 2023 was truly enlightening. It allowed me to explore a variety of ICT innovations, expanding my understanding of technology's role in education. Through interview sessions, I had the opportunity to ask questions and gain deeper insights into the real-world impact of these innovations. Besides, the NALI visit not only broadened my perspective on educational technology but also underscored the importance of adapting to challenges during the innovation process.<br><br>Suggestion for Inprovement 🛠<br>Certainly, there is one improvement that can enhance this visit. Presenters should use microphones for clearer explanations, and soundproof walls between booths are necessary, particularly in a crowded venue. This ensures that we can hear the presenters effectively amid the numerous booths and people. Another effective measure is to space the booths farther apart to ease congestion caused by the high interest of many people wanting to explore innovations at each booth.<br><br>Others 💡<br>Overall, the NALI 2023 visit was highly beneficial for me, providing valuable insights into New Academic Learning Innovation. I look forward to future opportunities to delve even deeper into the advancements and innovations in academic learning, expanding my knowledge in this field.</p>
+<p align="left">Summarize What I Have Gained From The NALI Visit 📝<br>On November 7, 2023, my visit to New Academia Learning Innovation (NALI) 2023 was truly enlightening. It allowed me to explore a variety of ICT innovations, expanding my understanding of technology's role in education. Through interview sessions, I had the opportunity to ask questions and gain deeper insights into the real-world impact of these innovations. Besides, the NALI visit not only broadened my perspective on educational technology but also underscored the importance of adapting to challenges during the innovation process.<br><br>Suggestion for Inprovement 🛠<br>Certainly, there is one improvement that can enhance this visit. Presenters should use microphones for clearer explanations, and soundproof walls between booths are necessary, particularly in a crowded venue. This ensures that we can hear the presenters effectively amid the numerous booths and people. Another effective measure is to space the booths farther apart to ease congestion caused by the high interest of many people wanting to explore innovations at each booth.<br><br>Others 💡<br>Overall, the NALI 2023 visit was highly beneficial for me, providing valuable insights into New Academic Learning Innovation. I look forward to future opportunities to delve even deeper into the advancements and innovations in academic learning, expanding my knowledge in this field.</p>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<p align="left">Summarize What I Have Gained From <br><br>Suggestion for Inprovement 🛠<br><br>Others 💡</p>
+<p align="left">Summarize What I Have Gained From The Visit Of UTM DIGITAL 📝<br>During the visit to UTM Digital on December 19, 2023, valuable insights were gained into maximizing the use of platforms like myUTMPortal and UTMSmart App. Understanding their features, such as the QR Attendance Scanner and Shuttle Bus Schedule, enhances our overall experience as students. Additionally, we learned how to access the Microsoft 365 Suite using a live account with UTM ID, which is beneficial for efficient utilization of these tools for academic purposes.<br><br>Suggestion for Inprovement 🛠<br>As UTM Digital has brought about significant improvements, I would encourage UTM Digital to address areas at UTM, especially in student hostels and faculty buildings, where there are unstable or slow network connections. By doing so, it can enhance the overall digital experience for students and staff, significantly boosting study efficiency.<br><br>Others 💡<br>In conclusion, the visit to UTM Digital was a valuable experience that not only provided practical insights into the effective utilization of digital platforms but also highlighted areas for improvement. We really appreciate UTM DIGITAL for giving us this chance to visit. I hope that in the future, there will be more opportunities like this to further enhance our understanding of technological advancements.</p>
 
 ###
 
@@ -103,11 +103,7 @@
 
 ###
 
-<h3 align="left">📊Badges:</h3>
-
-###
-
-<p align="left">My GitHub Stats :</p>
+<h3 align="left">📊My GitHub Stats:</h3>
 
 ###
 
