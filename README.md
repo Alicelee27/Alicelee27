@@ -58,7 +58,7 @@
 ###
 
 <h1 align="left">Assignments 📂</h1>
-<p align="left"> 1.  <a href=["https://www.utm.my/" target="_blank"](https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%201-%20VISIT%20TO%20NALI%202023/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G6%20S7%20).pdf)>Assignment 1 </a></p>
+[<p align="left"> 1.  <a href=["https://www.utm.my/" target="_blank"](https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%201-%20VISIT%20TO%20NALI%202023/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G6%20S7%20).pdf)>Assignment 1 </a></p>](https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%201-%20VISIT%20TO%20NALI%202023/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G6%20S7%20).pdf)
 
 ###
 
