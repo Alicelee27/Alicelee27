@@ -103,6 +103,14 @@
 
 ###
 
+<h2 align="left">PC Assembler Lab 🔍</h2>
+
+###
+
+<p align="left">Summarize What I Have Gained From PC Assembler Lab📝<br> <br>During the PC Assembler Lab on December 3, 2023, I gained valuable hands-on experience in assembling a PC. The practical knowledge acquired included identifying and connecting various hardware components such as the CPU fan, RAM, HDD, and power supply. Going through it step-by-step helped me enhance my understanding of the internal workings of a computer and how each component contributes to its functionality. Additionally, troubleshooting challenges encountered during the assembly provided insights into problem-solving within a real-world context. Overall, the Lab PC Assembler was an enriching and practical component of the learning journey.</p>
+
+###
+
 <h3 align="left">📊My GitHub Stats:</h3>
 
 ###
