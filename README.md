@@ -66,6 +66,42 @@
 
 ###
 
+<h1 align="left">Reflection On Each Assignment 📌</h1>
+
+###
+
+<h2 align="left">Assignment 1 🔍</h2>
+
+###
+
+<p align="left">**Summarize What I Have Gained From The NALI Visit 📝**<br>On November 7, 2023, my visit to New Academia Learning Innovation (NALI) 2023 was truly enlightening. It allowed me to explore a variety of ICT innovations, expanding my understanding of technology's role in education. Through interview sessions, I had the opportunity to ask questions and gain deeper insights into the real-world impact of these innovations. Besides, the NALI visit not only broadened my perspective on educational technology but also underscored the importance of adapting to challenges during the innovation process.<br><br>Suggestion for Inprovement 🛠<br>Certainly, there is one improvement that can enhance this visit. Presenters should use microphones for clearer explanations, and soundproof walls between booths are necessary, particularly in a crowded venue. This ensures that we can hear the presenters effectively amid the numerous booths and people. Another effective measure is to space the booths farther apart to ease congestion caused by the high interest of many people wanting to explore innovations at each booth.<br><br>Others 💡<br>Overall, the NALI 2023 visit was highly beneficial for me, providing valuable insights into New Academic Learning Innovation. I look forward to future opportunities to delve even deeper into the advancements and innovations in academic learning, expanding my knowledge in this field.</p>
+
+###
+
+<h2 align="left">Assignment 2 🔍</h2>
+
+###
+
+<p align="left">Summarize What I Have Gained From The Industry Talk 1 📝<br>The industry talk on November 14, 2023, provided an overview of ICT jobs at Charity Techworks. I gained a comprehensive understanding of various ICT roles, including the responsibilities and technologies associated with each position. Insights from professionals like Mr. Yee Soon Tuck and the junior developers offered valuable perspectives on real-world challenges in the ICT field. The talk gave me a clear picture of the daily activities and the technologies utilized in each role, which was quite enlightening.<br><br>Suggestion for Inprovement 🛠<br>Adding more interactive elements, such as live demonstrations of certain technologies/tools, could enhance engagement and provide us with a more immersive learning experience.<br><br>Others 💡<br>Understanding how each role, from Android Developer to UI/UX Designer, contributes to a cohesive team was enlightening. It highlighted the importance of collaboration and how diverse skills come together to achieve common goals.<br><br>In conclusion, the industrial talk was an enriching experience that broadened my understanding of ICT jobs, provided practical insights, and motivated me to embrace a continuous learning mindset in the ever-evolving field of technology. I hope that in the future, there will be more such talks to help me continue my professional development.</p>
+
+###
+
+<h2 align="left">Assignment 3 🔍</h2>
+
+###
+
+<p align="left">Summarize What I Have Gained From <br><br>Suggestion for Inprovement 🛠<br><br>Others 💡</p>
+
+###
+
+<h2 align="left">Assignment 4 🔍</h2>
+
+###
+
+<p align="left">Summarize What I Have Gained From <br><br>Suggestion for Inprovement 🛠<br><br>Others 💡</p>
+
+###
+
 <h3 align="left">📊Badges:</h3>
 
 ###
