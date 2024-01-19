@@ -57,13 +57,14 @@
 
 ###
 
-<h1 align="left">📂 Assignments</h1>
+<<h1 align="left">📂 Assignments</h1>
 <p align="left">
   1. <a href="https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%201-%20VISIT%20TO%20NALI%202023/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G6%20S7%20).pdf" target="_blank">Assignment 1</a> <br>
   2. <a href="https://github.com/Alicelee27/SECP1513_TIS_PROJECTS/blob/main/ASSIGNMENT%202%20-%20INDUSTRY%20TALK%201/ASSIGNMENT%202-%20POSTER%20ON%20INDUSTRY%20TALK%201.jpg" target="_blank">Assignment 2</a> <br>
-  3. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%203%20-VIDEO%20VISIT%20TO%20UTM%20DIGITAL.pdf" target="_blank">Assignment 3</a>
-  
+  3. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%203%20-VIDEO%20VISIT%20TO%20UTM%20DIGITAL.pdf" target="_blank">Assignment 3</a> <br>
+  4. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%204%20-%20REPORT%20ON%20INDUSTRY%20TALK%202.pdf" target="_blank">Assignment 4</a>
 </p>
+
 
 ###
 
