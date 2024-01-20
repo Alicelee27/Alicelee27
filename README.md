@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">● Bachelor of Computer Science (Graphic and Multimedia Software)<br>● Sarawak Matriculation College (2022-2023)<br>● SPM (2021)</p>
+<p align="left">● Bachelor of Computer Science (Graphic and Multimedia Software)<br>● Sarawak Matriculation Colleage (2022-2023)<br>● SPM (2021)</p>
 
 ###
 
