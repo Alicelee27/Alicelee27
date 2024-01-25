@@ -64,8 +64,9 @@
   3. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%203%20-VIDEO%20VISIT%20TO%20UTM%20DIGITAL.pdf" target="_blank">Assignment 3</a> <br>
   4. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/ASSIGNMENT%204%20-%20REPORT%20ON%20INDUSTRY%20TALK%202.pdf" target="_blank">Assignment 4</a> <br>
   5. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/PC%20ASSEMBLE%20LAB.jpg" target="_blank">PC Assembler Lab</a> <br>
-  6. <a href="[https://github.com/Alicelee27/Alicelee27/blob/main/PC%20ASSEMBLE%20LAB.jpg" target="_blank](https://github.com/Alicelee27/Alicelee27/blob/main/DESIGN%20THINKING%20(%20G6%20S7%20).pdf)">Design Thinking Low Fidelity Prototype</a> <br>
+  6. <a href="https://github.com/Alicelee27/Alicelee27/blob/main/DESIGN%20THINKING%20(%20G6%20S7%20).pdf" target="_blank">Design Thinking Low Fidelity Prototype</a> <br>
 </p>
+
 
 ###
 
