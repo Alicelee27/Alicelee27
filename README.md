@@ -116,6 +116,11 @@
 
 <h2 align="left">Design Thinking (Low Fidelity Prototype) 🔍</h2>
 
+<p align="left">My goal for my graphic and multimedia software course is to become an innovative professional.  I aim to master all necessary skills to create awesome and impactful designs, understanding everything from basics to the latest trends. I'm excited to explore how to use technology to make my designs look really cool.
+Design thinking plays a crucial role in achieving this goal. It helps me solve problems better and enhances my problem-solving abilities. By using design thinking, I can be creative when facing challenges, ensuring that the solutions I come up with not only work well but also look great. This aligns perfectly with my goal of becoming highly skilled in graphic and multimedia software.
+To improve in the industry, I plan to continue learning and applying design thinking in practical ways. This involves staying updated on what's new, trying new design ideas, and seeking feedback to enhance my skills. Additionally, I'll connect with professionals, work on real projects to grow and succeed in graphic and multimedia software. Embracing a mindset of continuous improvement, I believe that staying curious and adaptable will be key to achieving success in this dynamic field.</p>
+
+
 ###
 
 <h3 align="left">📊My GitHub Stats:</h3>
